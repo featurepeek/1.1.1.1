@@ -39,7 +39,7 @@ jobs:
 
       # store static artifacts
       - store_artifacts:
-          path: html
+          path: ./build
 
       # notify featurepeek
       - run:
