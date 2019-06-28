@@ -2,10 +2,10 @@
 # yarn lockfile v1
 
 
-"@featurepeek/circleci@^0.2.3":
-  version "0.2.3"
-  resolved "https://registry.yarnpkg.com/@featurepeek/circleci/-/circleci-0.2.3.tgz#8782139b4d91d2cdf11376cf7370917c60e2170c"
-  integrity sha512-nr26ICo4l5pSSFoTHov8PEgNPonPluYhqF03p9gHkXE55i77BCoSNgqUtSRa6xgPUauE2ZQoR9cIoG6bmy1kLQ==
+"@featurepeek/circleci@^0.2.4":
+  version "0.2.4"
+  resolved "https://registry.yarnpkg.com/@featurepeek/circleci/-/circleci-0.2.4.tgz#a7437570ea0c345febc01edea2c3fac323cf9b8f"
+  integrity sha512-Huq3oOdKEsbgJspv3ZMBI/rDsWG1HUv/bqKhkXoy1xjP8rxoTvnb3KQ2HsrhD/GEl/65euyubmNcbjhACkFpeQ==
   dependencies:
     archiver "^3.0.0"
     js-yaml "^3.12.2"
