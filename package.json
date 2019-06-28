@@ -15,7 +15,7 @@
     "webpack-dev-middleware": "3.6.0"
   },
   "devDependencies": {
-    "@featurepeek/circleci": "^0.2.4",
+    "@featurepeek/circleci": "^0.2.5",
     "@types/clean-webpack-plugin": "^0.1.2",
     "@types/copy-webpack-plugin": "^4.4.1",
     "@types/googlemaps": "^3.30.8",
