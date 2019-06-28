@@ -37,10 +37,6 @@ jobs:
           name: Build
           command: yarn build
 
-      # store static artifacts
-      - store_artifacts:
-          path: ./build
-
       # notify featurepeek
       - run:
           name: Pinging FeaturePeek
